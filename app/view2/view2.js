@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('myApp.view2', ['ngRoute', 'ngAnimate'])
+angular.module('yj.view2', ['ngRoute', 'ngAnimate'])
 
 .config(['$routeProvider', function($routeProvider) {
   $routeProvider.when('/view2', {
