@@ -15,5 +15,6 @@
     "jquery": "~2.1.4",
     "html5-boilerplate": "~5.2.0",
     "angular-ui-layout": "~0.0.2"
-  }
+}
+
 }

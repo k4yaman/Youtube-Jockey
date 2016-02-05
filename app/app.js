@@ -12,3 +12,5 @@ angular.module('yj', [
 config(['$routeProvider', function($routeProvider) {
   $routeProvider.otherwise({redirectTo: '/mainView'});
 }]);
+
+
