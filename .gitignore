@@ -4,9 +4,4 @@ bower_components/
 tmp
 .DS_Store
 .idea
-node_modules/*
-!node_modules/http-server
-node_modules/http-server/*
-!node_modules/http-server/lib
-node_modules/http-server/lib/*
-!node_modules/http-server/lib/http-server.js
+node_modules/
